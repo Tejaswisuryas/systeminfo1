@@ -10,5 +10,4 @@ setup(name="systeminfo1",
       entry_points={
           'console_scripts':['comp30670_systeminfo1=systeminfo1.main:main']
           }
-      )
-      
+    )
